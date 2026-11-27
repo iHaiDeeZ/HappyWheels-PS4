@@ -1,0 +1,13 @@
+# h5's browser layer, run in this order before the app's main.js
+core.js
+events.js
+dom.js
+net.js
+media.js
+canvas2d.js
+htmlimage.js
+webgl.js
+webaudio.js
+input.js
+overlay.js
+finish.js

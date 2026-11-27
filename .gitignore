@@ -1,0 +1,8 @@
+# packages and console logs stay on the PC
+out/
+logs/
+*.pkg
+# screenshots of the game (its art is not ours to publish)
+docs/shots/
+__pycache__/
+*.pyc
